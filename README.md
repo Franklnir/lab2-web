@@ -48,6 +48,12 @@
 
 
 ### langkah 2 Mendeklarasikan CSS Internal
+#<style>: Menyertakan CSS internal yang mengatur gaya elemen pada halaman.
+#body: Menentukan font untuk seluruh halaman dengan menggunakan 'Open Sans', dan memilih jenis sans-serif sebagai alternatif.
+#header: Mengatur tinggi minimum elemen header menjadi 80px dan menambahkan border di bagian bawah dengan warna #77CCEF.
+#h1: Mengatur ukuran font menjadi 24px, memberikan warna teks biru (#0F189F).
+#h1 i: Mengubah warna teks miring di dalam elemen <h1> menjadi abu-abu (#6d6a6b).
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -106,6 +112,9 @@
 
 
 ###langkah 3 Menambahkan Inline CSS
+#text-align: center;: Mengatur teks dalam paragraf agar terletak di tengah.
+#color: #ccd8e4;: Mengatur warna teks menjadi abu-abu muda (#ccd8e4).
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -164,6 +173,14 @@
 
 
 ###langkah 4 Membuat CSS Eksternal
+#background: #20A759;: Menetapkan warna latar belakang hijau.
+#color: #fff;: Mengatur warna teks menjadi putih.
+#padding: 10px;: Memberikan ruang di dalam elemen navigasi.
+#nav a: Mengatur gaya untuk semua tautan (<a>) di dalam elemen navigasi.
+#color: #fff;: Menetapkan warna teks tautan menjadi putih.
+#text-decoration: none;: Menghilangkan garis bawah pada tautan.
+#padding: 10px 20px;: Memberikan ruang di sekitar teks tautan (10px vertikal, 20px horizontal).
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -226,6 +243,9 @@
 
 
 ###langkah 5 Menambahkan CSS Selector dan semua style yang ada pada style_ekstenal.css
+# ID selector Mengatur gaya pada elemen HTML dengan atribut id, yang bersifat unik.
+# selector mengatur gaya pada satu atau lebih elemen HTML dengan atribut class, yang dapat digunakan berkali-kali.
+
 nav {
     background: #20A759; 
     color: #fff;        
