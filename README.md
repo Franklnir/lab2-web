@@ -1,5 +1,5 @@
 # lab2-web
-<h1 langkah 1 membuat dokumen html
+<h1langkah 1 membuat dokumen html
 
 ## Deklarasi HTML
 - <!DOCTYPE html>: Menandakan bahwa ini adalah dokumen HTML5.
