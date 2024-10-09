@@ -1,13 +1,13 @@
 # lab2-web
-<h1langkah 1 membuat dokumen html
+### langkah 1 membuat dokumen html
 
-## Deklarasi HTML
+##Deklarasi HTML
 - <!DOCTYPE html>: Menandakan bahwa ini adalah dokumen HTML5.
-## Bagian <head>
+##Bagian <head>
 - <meta charset="UTF-8">`**: Mengatur pengkodean karakter ke UTF-8.
 - <meta name="viewport" content="width=device-width, initial-scale=1.0">`**: Membuat tampilan responsif di perangkat seluler.
 - <title>CSS Dasar</title>`: Menetapkan judul halaman sebagai "CSS Dasar".
-## Bagian <body>
+##Bagian <body>
 - Header: <h1>CSS Internal dan <i>Inline CSS</i></h1> menampilkan judul dengan teks miring.
 - Navigasi (<nav>): Tiga tautan untuk menuju halaman "CSS Dasar", "CSS Eksternal", dan "HTML Dasar".
 - ID Selector (#intro): <div id="intro"> digunakan untuk mengatur gaya khusus
@@ -111,7 +111,7 @@
 
 
 
-###langkah 3 Menambahkan Inline CSS
+### langkah 3 Menambahkan Inline CSS
 #text-align: center;: Mengatur teks dalam paragraf agar terletak di tengah.
 #color: #ccd8e4;: Mengatur warna teks menjadi abu-abu muda (#ccd8e4).
 
@@ -172,7 +172,7 @@
 
 
 
-###langkah 4 Membuat CSS Eksternal
+### langkah 4 Membuat CSS Eksternal
 #background: #20A759;: Menetapkan warna latar belakang hijau.
 #color: #fff;: Mengatur warna teks menjadi putih.
 #padding: 10px;: Memberikan ruang di dalam elemen navigasi.
@@ -242,9 +242,9 @@
 
 
 
-###langkah 5 Menambahkan CSS Selector dan semua style yang ada pada style_ekstenal.css
-# ID selector Mengatur gaya pada elemen HTML dengan atribut id, yang bersifat unik.
-# selector mengatur gaya pada satu atau lebih elemen HTML dengan atribut class, yang dapat digunakan berkali-kali.
+### langkah 5 Menambahkan CSS Selector dan semua style yang ada pada style_ekstenal.css
+#ID selector Mengatur gaya pada elemen HTML dengan atribut id, yang bersifat unik.
+#selector mengatur gaya pada satu atau lebih elemen HTML dengan atribut class, yang dapat digunakan berkali-kali.
 
 nav {
     background: #20A759; 
